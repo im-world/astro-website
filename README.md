@@ -1,2 +1,2 @@
 # Astronomy Club Website
-website creted using bootstrap4, vuejs
+website created using bootstrap4, vue.js
