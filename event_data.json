@@ -80,22 +80,22 @@
     },
     {
         "Name":"Nakshatra IIT Indore Astronomy Fest",
-        "img":"img/nak.jpg",
-        "li":"nak.html",
+        "img":"img/nakshatra.jpg",
+        "li":"nakshatra.html",
 
         "disc":"The Astronomy Club, IIT Indore brings for your enjoyment, the very first edition of our Astronomy Fest - Nakshatra!<br>Enjoy a veritable menagerie of fun and exciting events - Talks, Quizzes, Competitions, Workshops. We have them all!Do you enjoy learning about the mysteries of Black Holes and Neutron stars which lie waiting in the abyss of space? Do you want to learn the technical tools which can allow you to discover new worlds and unfurl the mysteries of the cosmos? DO you want to improve on the designs of SpaceX rockets? Do you like wracking your brain on the toughest cosmic conundrums? Or just a fun game of astronomy-themed scribble? So, get ready to scratch your head while answering some of the most amorphous questions in your life.<br>"
     },
     {
         "Name":"Diwali Cosmic Quiz",
         "img":"img/intro",
-        "li":"diw.html",
+        "li":"diwali.html",
 
         "disc":"It's better to use your brain to the maximum extent and die, rather than dying without making use of your brain. We launched this event for them who doesn't need a lucid structure of question to answer them.<br>So, get ready to scratch your head while answering some of the most amorphous questions in your life. Astronomy Club of IIT Indore is organizing a quiz competition. So, let's get started with this quiz where you will have to answer some brainstorming questions.<br>"
     },
     {
         "Name":"Kepler quiz",
-        "img":"img/kep.jpg",
-        "li":"kep.html",
+        "img":"img/kepler.jpg",
+        "li":"kepler.html",
 
         "disc":" The Astronomy Club, IIT Indore brings to you yet another quiz, the Kepler Quiz. Are you a person who loves astronomy? Do you enjoy reading about Halley’s comet, the mysteries behind the formation of black holes and neutron stars? Do you want to delve deeper into the world of astronomy? Get ready to scratch your head while answering some of the most amorphous questions of your life.<br>"
     }
